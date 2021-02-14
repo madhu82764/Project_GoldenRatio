@@ -1,0 +1,75 @@
+.row-header{
+    background: darkmagenta;
+    color: darkorange;
+    padding: 40px 30px 10px 30px;
+    margin: 0px auto;
+  
+   
+
+}
+.row-content{
+    padding-top: 30px;
+    background: darkorchid;
+    color:floralwhite;
+}
+
+#head1{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+#list1{
+   font-size: 15px;
+}
+
+#list2{
+    font-size: 15px;
+ }
+
+ #list3{
+    font-size: 15px;
+ }
+
+ #img{
+     background-color: floralwhite;
+     max-width: 400px;
+     max-height: 300px;
+     overflow:hidden;
+ }
+
+ #nature{
+    padding-bottom: 50px;
+     background-color: palevioletred;
+     /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
+#art{
+   padding-bottom: 50px;
+   background-color:orchid;
+}
+
+#architecture{
+    padding-bottom: 50px;
+    background-color: teal ;
+}
+
+#finance{
+    padding-bottom: 50px;
+    background-color: mediumpurple;
+}
+
+#music{
+    padding-bottom: 50px;
+    background-color: darkred;
+}
+
+#others{
+    padding-bottom: 50px;
+    background-color: steelblue;
+}
