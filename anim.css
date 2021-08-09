@@ -4,16 +4,14 @@
     color: darkorange;
     padding: 40px 30px 10px 30px;
     margin: 0px auto;
+    font-family:'Times New Roman', Times, serif;  
+    
 }
 
 body{
 margin: 0;
     background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
-    
-    
-   
-
-     
+       
 }
 
 

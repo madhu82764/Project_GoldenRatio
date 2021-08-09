@@ -1,5 +1,6 @@
 .row-header{
-    background: darkmagenta;
+    /* background: darkmagenta; */
+    
     color: darkorange;
     padding: 40px 30px 10px 30px;
     margin: 0px auto;
@@ -7,14 +8,20 @@
    
 
 }
-.row-content{
+#index{
     padding-top: 30px;
-    background: darkorchid;
-    color:floralwhite;
+    /* background: darkorchid; */
+    background-image: linear-gradient(to top, #73339e 0%, #380758 100%);
+    
+
 }
+.row-content{
+    color:floralwhite;
+} 
 
 #head1{
     font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
     
 }
 
@@ -39,7 +46,9 @@
 
  #nature{
     padding-bottom: 50px;
-     background-color: palevioletred;
+     /* background-color: palevioletred; */
+     background-image: linear-gradient(to top, #4d93a8 0%, #033941 100%);
+     color:floralwhite;
      /* Full height */
   height: 100%;
 
@@ -51,25 +60,30 @@
 
 #art{
    padding-bottom: 50px;
-   background-color:orchid;
+   background-image: linear-gradient(to top, #4d93a8 0%, #03412e 100%);
+   color:floralwhite;
 }
 
 #architecture{
     padding-bottom: 50px;
-    background-color: teal ;
+    background-image: linear-gradient(to top, #a8624d 0%, #2b4103 100%);
+    color:floralwhite;
 }
 
 #finance{
     padding-bottom: 50px;
-    background-color: mediumpurple;
+    background-image: linear-gradient(to top, #0c629b 0%, #01043a 100%);
+    color:floralwhite;
 }
 
 #music{
     padding-bottom: 50px;
-    background-color: darkred;
+    background-image: linear-gradient(to top, #ac4858 0%, #77052b 100%);
+    color:floralwhite;
 }
 
 #others{
     padding-bottom: 50px;
-    background-color: steelblue;
+    background-image: linear-gradient(to top, #5b6bb1 0%, #333533 100%);
+    color:floralwhite;
 }
